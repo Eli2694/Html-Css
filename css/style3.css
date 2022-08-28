@@ -3,7 +3,7 @@ body {
 }
 .heroes {
   width: 60vw;
-  height: 105vh;
+
   margin: 0 auto;
   background-color: #5f9ea0;
 }
@@ -17,8 +17,8 @@ body {
   gap: 10px;
 }
 .image {
-  height: 165px;
-  width: 360px;
+  height: 30vh;
+  width: 15vw;
 }
 .hero {
   display: flex;
